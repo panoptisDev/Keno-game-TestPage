@@ -1,4 +1,3 @@
-// filepath: /home/koko/PlinkoGame-nextjs-wagmi-2024-12-1/app/KenoTubes/KenoTubes.tsx
 "use client";
 
 import React, { useEffect, useState } from 'react';
