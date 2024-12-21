@@ -1,4 +1,3 @@
-// filepath: /home/koko/PlinkoGame-nextjs-wagmi-2024-12-1/app/KenoBallBlower.tsx
 "use client";
 
 import React, { useState, useEffect, memo } from "react";
